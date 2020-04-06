@@ -10,3 +10,6 @@ ENV/
 env.bak/
 venv.bak/
 
+pollster/polls/__pycache__/
+pollster/pages/__pycache__/
+pollster/pollster/__pycache__/
